@@ -18,13 +18,9 @@ Abaixo está uma tabela onde você pode inserir suas apostilas de tópico por t�
 | Tópico                      | Descrição                                                                 | Link para o PDF                                  |
 |-----------------------------|---------------------------------------------------------------------------|--------------------------------------------------|
 | Introdução à POO            | Apresentação dos conceitos básicos de POO.                                | [Baixar PDF](link_para_introducao_poo.pdf)       |
-| Classes e Objetos           | Explicação sobre classes e objetos em POO.                                | [Baixar PDF](link_para_classes_objetos.pdf)      |
-| Herança                     | Conceito de herança e como implementá-la.                                  | [Baixar PDF](link_para_heranca.pdf)             |
-| Polimorfismo                | Entendendo o polimorfismo e seus tipos.                                   | [Baixar PDF](link_para_polimorfismo.pdf)         |
-| Encapsulamento              | Importância do encapsulamento e como aplicá-lo.                          | [Baixar PDF](link_para_encapsulamento.pdf)       |
-| Abstração                   | Conceito de abstração e sua aplicação em POO.                             | [Baixar PDF](link_para_abstracao.pdf)            |
-| Interfaces e Classes Abstratas | Diferença entre interfaces e classes abstratas.                      | [Baixar PDF](link_para_interfaces_abstratas.pdf)  |
-| Exceções e Tratamento de Erros | Como lidar com exceções e erros em POO.                               | [Baixar PDF](link_para_excecoes_erros.pdf)      |
+| Classes e Métodos e Atríbutos           | Exemplificação de código e contextualização.                             | [Baixar PDF](APOSTILAS/Classes-Atributos-Metodos.pdf)      |
+| Getters e Setters                     | Exemplificação de código e contextualização.                                 | [Baixar PDF](APOSTILAS/Getters-Setters.pdf)             |
+| Método Construct                | Exemplificação de código e contextualização                                    | [Baixar PDF](APOSTILAS/Construct.pdf)         |
 
 ## Como Contribuir
 
