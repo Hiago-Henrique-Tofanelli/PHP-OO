@@ -1,4 +1,4 @@
-# Curso de Programação Orientada a Objetos (POO)
+## Curso de Programação Orientada a Objetos (POO)
 
 Bem-vindo ao repositório do curso de Programação Orientada a Objetos (POO)! Aqui você encontrará uma explicação básica sobre POO e uma tabela para inserir suas apostilas de tópico por tópico do curso em PDF.
 
@@ -15,12 +15,13 @@ Programação Orientada a Objetos (POO) é um paradigma de programação baseado
 
 Abaixo está uma tabela onde você pode inserir suas apostilas de tópico por tópico do curso em PDF.
 
-| Tópico                      | Descrição                                                                 | Link para o PDF                                  |
-|-----------------------------|---------------------------------------------------------------------------|--------------------------------------------------|
-| Introdução à POO            | Apresentação dos conceitos básicos de POO.                                | [Baixar PDF](APOSTILAS/INTRODUCAO-POO.pdf)       |
-| Classes e Métodos e Atríbutos           | Exemplificação de código e contextualização.                             | [Baixar PDF](APOSTILAS/Classes-Atributos-Metodos.pdf)      |
-| Getters e Setters                     | Exemplificação de código e contextualização.                                 | [Baixar PDF](APOSTILAS/Getters-Setters.pdf)             |
-| Método Construct                | Exemplificação de código e contextualização                                    | [Baixar PDF](APOSTILAS/Construct.pdf)         |
+| Tópico                      | Descrição                                                                 | Link para o PDF                                  | Link para uma vídeo aula do assunto             |
+|-----------------------------|---------------------------------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
+| Introdução à POO            | Apresentação dos conceitos básicos de POO.                                | [Baixar PDF](APOSTILAS/INTRODUCAO-POO.pdf)       | [Assista ao vídeo](https://youtu.be/hzy_P_H-1CQ?si=6LTd-sWpNfqcK3Lc) |
+| Classes e Métodos e Atríbutos| Exemplificação de código e contextualização.                             | [Baixar PDF](APOSTILAS/Classes-Atributos-Metodos.pdf)      | [Assista ao vídeo](https://youtu.be/eWW5M1n2Pq8?si=9Y1pjXkC6kADiA5y) |
+| Getters e Setters           | Exemplificação de código e contextualização.                              | [Baixar PDF](APOSTILAS/Getters-Setters.pdf)      | [Assista ao vídeo](https://youtu.be/QaM22Qgo3gM?si=fM6pDPf3KeIihEgB) |
+| Método Construct            | Exemplificação de código e contextualização                              | [Baixar PDF](APOSTILAS/Construct.pdf)            | [Assista ao vídeo](https://youtu.be/0D4sw2m1BZY?si=UQvIhLIpstemjI69) |
+
 
 ## Como Contribuir
 
