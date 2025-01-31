@@ -1,6 +1,6 @@
 <?php
 
-class Login
+class Login1
 {
     private $email;
     private $senha;
@@ -36,7 +36,7 @@ class Login
     }
 }
 
-$logar = new Login();
+$logar = new Login1();
 $logar->setEmail("teste@teste.com");
 $logar->setSenha("123456");
 $logar->Logar();
