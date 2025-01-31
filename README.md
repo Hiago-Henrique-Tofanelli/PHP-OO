@@ -30,7 +30,3 @@ Se você quiser contribuir para este repositório, sinta-se à vontade para faze
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Espero que este README seja útil para você! Se precisar de mais alguma coisa, estou à disposição.
