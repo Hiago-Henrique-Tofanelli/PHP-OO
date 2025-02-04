@@ -31,7 +31,3 @@ Abaixo está uma tabela onde você pode inserir suas apostilas de tópico por t�
 ## Como Contribuir
 
 Se você quiser contribuir para este repositório, sinta-se à vontade para fazer um fork e enviar um pull request com suas apostilas ou melhorias.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
