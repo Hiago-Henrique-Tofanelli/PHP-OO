@@ -21,13 +21,13 @@ Abaixo está uma tabela onde você pode inserir suas apostilas de tópico por t�
 | Classes e Métodos e Atríbutos| Exemplificação de código e contextualização.                             | [Baixar PDF](APOSTILAS/Classes-Atributos-Metodos.pdf)      | [Assista ao vídeo](https://youtu.be/eWW5M1n2Pq8?si=9Y1pjXkC6kADiA5y) |
 | Getters e Setters           | Exemplificação de código e contextualização.                              | [Baixar PDF](APOSTILAS/Getters-Setters.pdf)      | [Assista ao vídeo](https://youtu.be/QaM22Qgo3gM?si=fM6pDPf3KeIihEgB) |
 | Método Construct            | Exemplificação de código e contextualização                              | [Baixar PDF](APOSTILAS/Construct.pdf)            | [Assista ao vídeo](https://youtu.be/0D4sw2m1BZY?si=UQvIhLIpstemjI69) |
-| Modificadores de Acesso     | Exemplificação de código e contextualização                              | [Baixar PDF](APOSTILAS/Modificadores-de-acesso.pdf) |[Assista a parte 1](https://youtu.be/S3WuyHmNqeo?si=PFUFWfBuGg-1jw31)/[Assista a parte 2](https://youtu.be/ZGL2teU41Rw?si=chO75wQMyhpjaoRK)|
+| Herança          | Exemplificação de código e contextualização                              | [Baixar PDF](APOSTILAS/Heranca.pdf)            | [Assista ao vídeo](https://youtu.be/nRsLrAXZw4A?si=7gskzc0hklBNGorF) |
+| Modificadores de Acesso     | Exemplificação de código e contextualização                              | [Baixar PDF](APOSTILAS/Modificadores-de-Acesso.pdf) |[Assista a parte 1](https://youtu.be/S3WuyHmNqeo?si=PFUFWfBuGg-1jw31)/[Assista a parte 2](https://youtu.be/ZGL2teU41Rw?si=chO75wQMyhpjaoRK)|
+| Abstração           | Exemplificação de código e contextualização                              | [Baixar PDF](APOSTILAS/Abstracao.pdf)            | [Assista ao vídeo](https://youtu.be/ZGL2teU41Rw?si=jDgsduENISQwZbHL) |
+| Constantes, Self e Parent          | Exemplificação de código e contextualização                              | [Baixar PDF](APOSTILAS/Constantes-Self-Parent.pdf)            | [Assista ao vídeo](https://youtu.be/6u-IPyqAOJk?si=2jpAhn5m8fVF-WmT) |
+
 
 
 ## Como Contribuir
 
 Se você quiser contribuir para este repositório, sinta-se à vontade para fazer um fork e enviar um pull request com suas apostilas ou melhorias.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
