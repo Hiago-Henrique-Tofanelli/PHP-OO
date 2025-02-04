@@ -1,6 +1,6 @@
 ## Curso de Programação Orientada a Objetos (POO)
 
-Bem-vindo ao repositório do curso de Programação Orientada a Objetos (POO)! Aqui você encontrará uma explicação básica sobre POO e uma tabela para inserir suas apostilas de tópico por tópico do curso em PDF.
+Bem-vindo ao repositório do curso de Programação Orientada a Objetos (POO)! Aqui você encontrará uma explicação básica sobre POO e uma tabela onde deixei apostilas e aulas que indico para entender sobreo conteúdo, as quais também utilizei para fazer os códigos do repositório.
 
 ## O que é Programação Orientada a Objetos (POO)?
 
